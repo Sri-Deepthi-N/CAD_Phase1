@@ -28,7 +28,7 @@ The project's objective is to create a chatbot using IBM Cloud Watson Assistant,
 
 #### 3. Conversation Flow:
 
-- **Initiation:**
+- **Initiation  :**
   - InfoGuide introduces itself and provides a brief overview of its capabilities.
 
 - **User Queries:**
